@@ -1,0 +1,7 @@
+# Site settings
+title: My first version jekyll site
+description: This is my first version notes site.
+
+# Build settings
+markdown: kramdown
+theme: just-the-docs
